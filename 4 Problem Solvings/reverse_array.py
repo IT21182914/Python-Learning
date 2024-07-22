@@ -5,6 +5,8 @@ def reverse_array(arr):
         arr[i] = arr[n - 1 - i]
         arr[n - 1 - i] = temp
 
+        # arr[i], arr[n - 1 - i] = arr[n - 1 - i], arr[i] # Pythonic way of swapping two numbers called tuple unpacking.
+
 
 if __name__ == "__main__":
     array = [5, 4, 2, 7, 8, 6]
