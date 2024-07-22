@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c21f884-4313-4123-af95-1cc240bd2317" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithms/bubble_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 Syntax Learnt/for_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 Syntax Learnt/for_loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.bubble_sort.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.for_loops.executor": "Run",
     "Python.hello_world.executor": "Run",
@@ -70,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721582668430</updated>
       <workItem from="1721582674608" duration="1128000" />
-      <workItem from="1721587013099" duration="3243000" />
+      <workItem from="1721587013099" duration="4552000" />
     </task>
     <servers />
   </component>
@@ -80,6 +81,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_learnings$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1721594028547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 Syntax Learnt" />
     <SUITE FILE_PATH="coverage/python_learnings$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1721593019004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learnings$for_loops.coverage" NAME="for_loops Coverage Results" MODIFIED="1721594591540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 Syntax Learnt" />
+    <SUITE FILE_PATH="coverage/python_learnings$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1721618083609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms" />
+    <SUITE FILE_PATH="coverage/python_learnings$for_loops.coverage" NAME="for_loops Coverage Results" MODIFIED="1721594596677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 Syntax Learnt" />
   </component>
 </project>
