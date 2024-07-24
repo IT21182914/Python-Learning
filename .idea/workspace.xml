@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c21f884-4313-4123-af95-1cc240bd2317" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/5 OOP/inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721582668430</updated>
       <workItem from="1721582674608" duration="1128000" />
-      <workItem from="1721587013099" duration="7473000" />
+      <workItem from="1721587013099" duration="8791000" />
     </task>
     <servers />
   </component>
